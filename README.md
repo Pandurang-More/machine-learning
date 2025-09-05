@@ -10,9 +10,9 @@ The plan is divided into **3 phases**: Foundations → Main Project → Enhancem
 🎯 Goal: Learn Python libraries, ML basics + 4 mini projects
 
 ### Week 1 – Python & Basics
-- [ ] Mon: Python refresher (loops, functions, strings)  
-- [ ] Tue: Numpy arrays, math ops  
-- [ ] Wed: Pandas basics (CSV handling)  
+- [x] Mon: Python refresher (loops, functions, strings)  
+- [x] Tue: Numpy arrays, math ops  
+- [x] Wed: Pandas basics (CSV handling)  
 - [ ] Thu: Matplotlib & Seaborn plots  
 - [ ] Fri: ML basics (train/test, Logistic Regression)  
 - [ ] Sat: Revise all + mini notebook  
