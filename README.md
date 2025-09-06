@@ -13,7 +13,7 @@ The plan is divided into **3 phases**: Foundations → Main Project → Enhancem
 - [x] Mon: Python refresher (loops, functions, strings)  
 - [x] Tue: Numpy arrays, math ops  
 - [x] Wed: Pandas basics (CSV handling)  
-- [ ] Thu: Matplotlib & Seaborn plots  
+- [x] Thu: Matplotlib & Seaborn plots  
 - [ ] Fri: ML basics (train/test, Logistic Regression)  
 - [ ] Sat: Revise all + mini notebook  
 - [ ] **Sun Project 1:** Password Strength Checker  
